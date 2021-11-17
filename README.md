@@ -17,5 +17,5 @@
 ![](https://img.shields.io/badge/EDA-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 
-### Github Stats
-![Gatchmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gatchmon)
+<!-- ### Github Stats -->
+<!-- ![Gatchmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gatchmon) -->
