@@ -3,7 +3,7 @@
 ### About Me
 * Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing data and RNA-Seq Transcriptomics
 * Area research of interests including: <br>
-  `Computational Genomics` `Viral Genomics` `Cancer Genomics` `Whole Genome Sequencing (WGS)` `RNA-Seq Transcriptomics`
+  `Computational Genomics` `Viral Genomics` `Cancer Genomics` `Whole Genome Sequencing` `RNA-Seq Transcriptomics`
 * Continuously learning: <br>
   `Whole Genome Sequencing pipelines` `Data Sciences` `Phylogenetics`
 
