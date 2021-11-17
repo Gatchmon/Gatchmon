@@ -7,7 +7,7 @@
 * Continuously learning: <br>
   `Whole Genome Sequencing pipelines` `Data Sciences` `Phylogenetics`
 
-# Prominent Skills
+### Prominent Skills
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/IDE-R_Studio-informational?style=flat&logo=RStudio&logoColor=white&color=75AADB)
@@ -17,5 +17,5 @@
 ![](https://img.shields.io/badge/EDA-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 
-# Github Stats
+### Github Stats
 ![Gatchmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gatchmon)
