@@ -4,11 +4,11 @@
 * Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing data
 * Member of Nanopore Community at Oxford Nanopore Technologies (ONT)
 * Research interests: <br>
-  `Viral Genomics` `Cancer Genomics` `Whole Genome Sequencing` `RNA-Seq Transcriptomics`
+  `Viral Genomics` `Cancer Genomics` `Personalized Medicine` `Whole Genome Sequencing` `RNA-Seq Transcriptomics`
 * Current research in `SARS-CoV-2`: <br>
   `SNPs identification` `Variant analysis` `Viral heterogeneity`
 * Continuously learning: <br>
-  `SARS-CoV-2` `RNA-Seq` `Biological Data Sciences` `Phylogenetics`
+  `SARS-CoV-2` `RNA-Seq` `Medical Informatics` `Molecular Phylogenetics`
 
 ### Prominent Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=1793D1)
