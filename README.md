@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 ### About Me
-* Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing data and RNA-Seq Transcriptomics
+* Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing and Genomics analysis
+* Member of Nanopore Community at Oxford Nanopore Technologies (ONT)
 * Area research of interests including: <br>
   `SARS-CoV-2` `COVID-19` `Viral Genomics` `Cancer Genomics` `Computational Genomics` `Next Generation Sequencing`
 * Continuously learning: <br>
-  `SARS-CoV-2` `Whole Genome Sequencing` `Data Sciences` `Phylogenetics`
+  `SARS-CoV-2` `RNA-Seq` `Biological Data Sciences` `Phylogenetics`
 
 ### Prominent Skills
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/IDE-R_Studio-informational?style=flat&logo=RStudio&logoColor=white&color=75AADB)
+![](https://img.shields.io/badge/IDE-Pycharm-informational?style=flat&logo=Pycharm&logoColor=white&color=E0D600)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 ![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=4EAA25)
