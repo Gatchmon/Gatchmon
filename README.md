@@ -3,7 +3,7 @@
 ### About Me
 * Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing and Genomics analysis
 * Member of Nanopore Community at Oxford Nanopore Technologies (ONT)
-* Area research of interests including: <br>
+* Research interests: <br>
   `SARS-CoV-2` `COVID-19` `Viral Genomics` `Cancer Genomics` `Computational Genomics` `Next Generation Sequencing`
 * Continuously learning: <br>
   `SARS-CoV-2` `RNA-Seq` `Biological Data Sciences` `Phylogenetics`
@@ -20,5 +20,5 @@
 ![](https://img.shields.io/badge/EDA-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 
-<!-- ### Github Stats -->
-<!-- ![Gatchmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gatchmon) -->
+### Github Stats
+![Gatchmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gatchmon)
