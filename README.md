@@ -21,4 +21,4 @@
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 
 ### Github Stats
-![Gatchmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gatchmon)
+![Gatchmon's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user={Gatchmon})
