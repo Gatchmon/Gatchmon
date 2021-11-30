@@ -22,5 +22,5 @@
 ![](https://img.shields.io/badge/EDA-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 
-### Gatchmon's GitHub Streak
+### GitHub Streak
 ![Gatchmon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gatchmon)
