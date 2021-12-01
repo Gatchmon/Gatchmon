@@ -23,4 +23,4 @@
 ![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
 
 ### GitHub Streak
-![Gatchmon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gatchmon)
+![Gatchmon's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stefanusbernard)
