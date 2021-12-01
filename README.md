@@ -1,4 +1,4 @@
-### Hellow World 👋
+### Hello World 👋
 
 ### About Me
 * Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing data
