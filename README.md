@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 ### About Me
-* Bioinformatics analyst working on SARS-CoV-2 Whole Genome Sequencing data
+* PhD Student of ![SFI Centre for Research Trainin in Genomics Data Science](https://genomicsdatascience.ie/)
 * Member of Nanopore Community at Oxford Nanopore Technologies (ONT)
 * Research interests: <br>
   `Viral Genomics` `Cancer Genomics` `Personalized Medicine` `Whole Genome Sequencing` `RNA-Seq Transcriptomics`
