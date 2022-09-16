@@ -4,8 +4,6 @@
 * PhD Student of [SFI Centre for Research Training in Genomics Data Science](https://genomicsdatascience.ie/)
 * Research interests: <br>
   `Viral Genomics` `Cancer Genomics` `Personalized Medicine` `Whole Genome Sequencing` `RNA-Seq Transcriptomics`
-* Current research in `SARS-CoV-2`: <br>
-  `SNPs identification` `Variant analysis` `Viral heterogeneity`
 * Continuously learning: <br>
   `SARS-CoV-2` `RNA-Seq` `Medical Informatics` `Molecular Phylogenetics`
 
