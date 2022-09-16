@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 ### About Me
-* PhD Student of [SFI Centre for Research Training in Genomics Data Science](https://genomicsdatascience.ie/)
+* PhD Student of Bioinformatics under the [SFI Centre for Research Training in Genomics Data Science](https://genomicsdatascience.ie/)
 * Research interests: <br>
   `Viral Genomics` `Cancer Genomics` `Personalized Medicine` `Whole Genome Sequencing` `RNA-Seq Transcriptomics`
 * Continuously learning: <br>
