@@ -4,9 +4,9 @@
 * PhD Student of Bioinformatics under the [SFI Centre for Research Training in Genomics Data Science](https://genomicsdatascience.ie/)
 * Part of [Santocanale's Research Group](https://santocanalelab.net/) under [Centre for Chromosome Biology](https://www.chromosome.ie/) at University of Galway
 * Research interests: <br>
-  `Cancer Genomics` `Personalized Medicine` `Whole Genome Sequencing` `RNA-Seq Transcriptomics` `Viral Genomics`
+  `Cancer Genomics` `CRISPR/Cas9` `Whole Genome Sequencing` `RNA-Seq Transcriptomics` `Precision Medicine`
 * Continuously learning: <br>
-  `Personalized Medicine` `RNA-Seq` `Medical Informatics` `SARS-CoV-2`
+  `CRISPR/Cas9` `sgRNA` `Precision Medicine`
 
 ### Prominent Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=1793D1)
